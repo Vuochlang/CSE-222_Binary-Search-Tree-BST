@@ -3,12 +3,12 @@
 // Class: CSE222        Winter-2020     2419                                                                                        //
 // Date: 02/25/2020                                                                                                                 //
 // Assignment: PA4 - Plate3                                                                                                         //
-// This code will impliment a Binary Tree which is a tree data structure. Each node will have two children as the maximum number.   //
+// This code will implement a Binary Tree which is a tree data structure. Each node will have two children as the maximum number.   //
 // The to children are referred to the left child (left-sub-tree) and the right child (right-sub-tree). This code will allow user to//
-// 			_dump data out in LNR, NLR LRN order									    //
-//			_check the height of the tee										    //
-//			_check if the tree is balanced										    //
-//			_delete any node (platenumber and its information) from the tree 					    //
+// 			_dump data out in LNR, NLR LRN order									                                                //
+//			_check the height of the tee										                                                    //
+//			_check if the tree is balanced										                                                    //
+//			_delete any node (platenumber and its information) from the tree 					                                    //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
